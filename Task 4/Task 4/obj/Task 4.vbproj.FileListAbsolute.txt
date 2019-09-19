@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Task 4\Task 4\bin\Debug\Task 4.exe
+C:\Users\User\Desktop\Task 4\Task 4\bin\Debug\Task 4.pdb
+C:\Users\User\Desktop\Task 4\Task 4\bin\Debug\Task 4.xml
+C:\Users\User\Desktop\Task 4\Task 4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Task 4\Task 4\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\User\Desktop\Task 4\Task 4\obj\Debug\Task 4.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Task 4\Task 4\obj\Debug\Task 4.exe
+C:\Users\User\Desktop\Task 4\Task 4\obj\Debug\Task 4.xml
+C:\Users\User\Desktop\Task 4\Task 4\obj\Debug\Task 4.pdb

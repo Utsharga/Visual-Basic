@@ -1,0 +1,9 @@
+D:\CODING\STACK\STACK\bin\Debug\STACK.exe
+D:\CODING\STACK\STACK\bin\Debug\STACK.pdb
+D:\CODING\STACK\STACK\bin\Debug\STACK.xml
+D:\CODING\STACK\STACK\obj\Debug\ResolveAssemblyReference.cache
+D:\CODING\STACK\STACK\obj\Debug\ConsoleApplication1.Resources.resources
+D:\CODING\STACK\STACK\obj\Debug\STACK.vbproj.GenerateResource.Cache
+D:\CODING\STACK\STACK\obj\Debug\STACK.exe
+D:\CODING\STACK\STACK\obj\Debug\STACK.xml
+D:\CODING\STACK\STACK\obj\Debug\STACK.pdb
